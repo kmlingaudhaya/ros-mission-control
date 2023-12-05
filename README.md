@@ -1,2 +1,2 @@
-# ros-mission-control
-Explore ROS ActionLib with this example demonstrating seamless communication between nodes. The MissionAction, involving float, arrays, and booleans, showcases goal transmission, feedback handling, and result processing in a concise, instructive setup
+# ros-action-control
+The code provides a hands-on demonstration of a basic action server and client setup, highlighting the seamless process of sending goals with diverse data types. Explore how this example handles various data, including angles, coordinates, and boolean
